@@ -1,1 +1,1 @@
-# HTML_lab_7sem
+# HTML_LAB_7SEM
